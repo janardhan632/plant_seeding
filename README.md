@@ -1,5 +1,6 @@
 # plant_seeding
-Classified 12 species of plants as part of Kaggle Competition
+Classified 12 species of plants as part of Kaggle Competition.
+My score in the Leaderboard for the best submission is 0.98488, and it is at 22nd position out of 350(Top 7%) on 14th Jan,2018
 
 | File Name | Description | Kaggle LB score (F1 score) |
 |--|--|--|
